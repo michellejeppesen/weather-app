@@ -1,0 +1,105 @@
+h1 {
+  font-weight: bold;
+  font-family: "Barlow", sans-serif;
+  padding: 0px 0px 0px 20px;
+  font-size: 32px;
+}
+
+#weather-details {
+  list-style-type: none;
+  font-weight: lighter;
+  font-family: "Barlow", sans-serif;
+  font-size: 10pt;
+}
+
+.weather-card {
+  margin-top: 50px;
+}
+
+.city {
+  margin: 10px 0px 0px 10px;
+  padding: 20px 5px 30px 25px;
+  color: #2e79ca;
+}
+
+.city-top {
+  padding: 0px;
+  margin: 0px;
+}
+
+.city-search {
+  padding: 0px 0px 30px 20px;
+  margin-top: -30px;
+}
+
+.current-temperature {
+  font-weight: bold;
+  font-family: "Barlow", sans-serif;
+  font-size: 28pt;
+  padding: 0px 0px 00px 20px;
+}
+.current-emoji {
+  font-size: 30pt;
+  padding: 0px 30px 0px 10px;
+  margin: 0;
+}
+
+.current-city-temperature {
+  margin: 0px 10px 0px 0px;
+  padding: 0px 5px 25px 0px;
+}
+
+.date-time {
+  font-weight: lighter;
+  font-family: "Barlow", sans-serif;
+  font-size: 10pt;
+  padding-top: 10px;
+}
+
+.days {
+  font-family: "Barlow", sans-serif;
+  font-size: 14pt;
+  text-align: center;
+}
+
+.week-emoji {
+  font-family: "Barlow", sans-serif;
+  font-size: 20pt;
+  text-align: center;
+  /* padding: 0px 0px 0px 25px; */
+}
+
+.week-temperature {
+  font-family: "Barlow", sans-serif;
+  font-size: 10pt;
+  padding: 0px 0px 50px 0px;
+  text-align: center;
+}
+
+.city-top-row {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0px 0px 20px;
+  overflow: hidden;
+}
+
+.city-top {
+  float: left;
+  color: #2e79ca;
+  padding: 0px 50px 50px 0px;
+}
+
+.units {
+  position: relative;
+  top: -32px;
+  left: -10px;
+  font-size: 12px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+table {
+  margin: 5px 0px 40px 5px;
+}
